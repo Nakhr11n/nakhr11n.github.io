@@ -1,12 +1,13 @@
 body {
   font-family: sans-serif;
-  max-width: 800px;
+  max-width: 40%;
+  max-width: fit-content;
   margin: auto auto;
-  font-size: 18px;
-  line-height: 28px;
+  font-size: large;
+  line-height: 1.45em;
 }
 
 h1 {
-  font-size: 24px;
+  font-size: x-large;
   font-weight: bold;
 }
