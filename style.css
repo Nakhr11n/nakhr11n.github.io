@@ -1,9 +1,10 @@
 body {
   font-family: sans-serif;
-  max-width: fit-content;
-  margin: auto auto;
   font-size: large;
   line-height: 1.45em;
+
+  max-width: fit-content;
+  margin-inline: auto;
 }
 
 h1 {
